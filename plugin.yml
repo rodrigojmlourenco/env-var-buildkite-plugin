@@ -1,0 +1,9 @@
+name: Env var test
+description: Export HELLO_WORLD env var
+author: https://github.com/rodrigojmlourenco
+requirements: []
+configuration:
+  properties:
+    pattern:
+      type: string
+  additionalProperties: false
